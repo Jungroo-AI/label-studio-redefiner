@@ -1,0 +1,7 @@
+label-studio-redefiner
+Copyright 2026 Jungroo AI Labs
+
+This project includes code from label-studio-ml-backend
+(https://github.com/HumanSignal/label-studio-ml-backend), Copyright 2019 Heartex, Inc. (now HumanSignal),
+licensed under the Apache License, Version 2.0: _wsgi.py and the Dockerfile, used with changes,
+and the structure of test_api.py.
